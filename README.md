@@ -1,2 +1,2 @@
 # test-file
-repositori untuk menyimpan file sementara
+Repository pertama
