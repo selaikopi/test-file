@@ -1,7 +1,0 @@
-TO DO LIST 2020
-- Expert Javascript
-  * Selesaikan Materi Latihan
-- Expert Framework 
-  * Codeigniter
-  * Laravel
-- Dokumentation Progress
